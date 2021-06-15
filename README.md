@@ -12,7 +12,7 @@ I'm a programmer(Web Developer) but moving towards playing with the data 📈, l
 
 <h2 align="center"> CURRENTLY </h1>
 
-* 👨‍💻 Software Engineer @Softech * ✨ Learning & Contributing
+ 👨‍💻 Software Engineer @Softech  &   ✨ Learning & Contributing
 
 </div>
 
