@@ -1,5 +1,5 @@
 <p align="center">
-  <br><img src="https://github.com/usama-akram-gt/portfolio/Developer.gif" width="280px"><br><br>
+  <br><img src="https://github.com/usama-akram-gt/portfolio/blob/main/Developer.gif" width="280px"><br><br>
 </p>
 <br/>
 <br/>
