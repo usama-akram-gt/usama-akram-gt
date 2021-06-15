@@ -3,12 +3,16 @@
 </p>
 <br/>
 <br/>
+<div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
+I'm a programmer(Web Developer) but moving towards playing with the data 📈, love to solve problems through technology.
+I like tech, fashion, science, socializm, and a lot of things more.🧾💻
+</div>
 
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=usama-akram-gt&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/usama-akram-gt"/>
+[![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=usama-akram-gt&show_icons=true&theme=dark)]
 
 
 ---
 
-<h2 align="center">SOME OF THE PROJECT, I WOULD 💖 TO PIN 📌:</h2>
+<h2 align="center">SOME OF THE PROJECTs, I WOULD 💖 TO PIN 📌:</h2>
