@@ -11,4 +11,4 @@
 
 ---
 
-<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+<h2 align="center">SOME OF THE PROJECT, I WOULD 💖 TO PIN 📌:</h2>
