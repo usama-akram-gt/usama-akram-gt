@@ -9,9 +9,9 @@ I'm a programmer(Web Developer) but moving towards playing with the data 📈, l
 I like tech, fashion, science, socializm, and a lot of things more.🧾💻
 </div>
 
-
+<div align="center">
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=usama-akram-gt&show_icons=true&theme=dark)]
-
+</div>
 
 ---
 
