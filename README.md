@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
-I'm a programmer(Web Developer) but moving towards playing with the data 📈, love to solve problems through technology. I like tech, fashion, science, socializm, and a lot of things more.🧾💻
+Enthusiastic Software Engineer love to solve problems through technology, but now moving towards playing with the data 📈. I like tech, fashion, science, socializm, and a lot of things more.🧾💻
 </div>
 
 <br>
@@ -12,7 +12,7 @@ I'm a programmer(Web Developer) but moving towards playing with the data 📈, l
 
 <h2 align="center"> CURRENTLY </h1>
 
- 👨‍💻 Software Engineer @Softech  &   ✨ Learning & Contributing
+ 👨‍💻 Research Assistant @UniEssex  &   ✨ Ex Software Engineer @SoftechSystems
 
 </div>
 
@@ -42,4 +42,4 @@ I'm a programmer(Web Developer) but moving towards playing with the data 📈, l
 
 ---
 
-<h2 align="center">SOME OF THE PROJECTs, I WOULD 💖 TO PIN 📌:</h2>
+<h2 align="center">Project's, I Would 💖 TO PIN 📌:</h2>
