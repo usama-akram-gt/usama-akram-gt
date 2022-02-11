@@ -20,17 +20,30 @@ Enthusiastic Software Engineer love to solve problems through technology, but no
 <br>
 <div align="center">
 
-<h2 align="center"> LANGUAGES & FRAMEWORKS </h1>
+<h2 align="center"> Coding Languages & Tools </h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
+    <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/vue.js%20-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>  
-    <img src="https://img.shields.io/badge/python%203%20-%23417FB0.svg?&style=for-the-badge&logo=python&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=red"/>  
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 </div>
+<br>
 
+
+<div align="center">
+
+<h2 align="center"> Connect with me over </h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+</div>
 
 
 <br>
