@@ -39,7 +39,9 @@ Enthusiastic Software Engineer love to solve problems through technology, but no
 
 <h2 align="center"> Connect with me over </h1>
 <p align="center">
+  <a href="https://www.linkedin.com/in/itsusamaakram/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 </div>
 
