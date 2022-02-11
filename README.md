@@ -37,10 +37,14 @@ Enthusiastic Software Engineer love to solve problems through technology, but no
 
 <div align="center">
 
-<h2 align="center"> Connect with me over </h1>
+<h2 align="center"> Catch Me Over </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/itsusamaakram/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ 
+  <a href="https://open.spotify.com/user/62c30eoxp8f314hp7nhm2epz4?si=a054324d1d3a496b">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 </div>
