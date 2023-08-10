@@ -22,8 +22,8 @@
 
 <h2 align="center"> Certifications </h1>
 
-💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM -> https://coursera.org/share/f6f991503195903a3b04d910ec3fc782
-💻 Microsoft Azure for Data Engineering @Microsoft -> https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928
+💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM -> https://coursera.org/share/f6f991503195903a3b04d910ec3fc782 <br>
+💻 Microsoft Azure for Data Engineering @Microsoft -> https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928 <br>
 📊 Data Analysis with Python -> https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7
 </div>
 
