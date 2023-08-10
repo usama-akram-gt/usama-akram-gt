@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
-🚀 Passionate Aspiring Data Engineer with expertise in building robust pipelines, transforming raw data into insights, optimizing data architectures, and collaborating across teams to bridge the gap between data sources and analytical tools. Exploring cutting-edge tech like Python, Git, Docker, Spark, Hadoop, and cloud-based warehousing. 🛠️🔗🔧🌐💡📊💻 #HappyDataEngineering
+🚀 Passionate Aspiring Data Engineer with expertise in building robust pipelines, transforming raw data into insights, optimizing data architectures, and collaborating across teams to bridge the gap between data sources and analytical tools. Exploring cutting-edge tech like Python, Git, Docker, Spark, Hadoop, and cloud-based warehousing. #HappyDataEngineering <br>
 🎨 Travelling, photgraphy(have plenty of gears), fashion, science, socializm, and content generating is my LUV :)
 </div>
 
@@ -22,9 +22,9 @@
 
 <h2 align="center"> Certifications </h1>
 
-- ETL and Data Pipelines with Shell, Airflow and Kafka @IBM -> https://coursera.org/share/f6f991503195903a3b04d910ec3fc782
-- Microsoft Azure for Data Engineering @Microsoft -> https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928
-- Data Analysis with Python -> https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7
+💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM -> https://coursera.org/share/f6f991503195903a3b04d910ec3fc782
+💻 Microsoft Azure for Data Engineering @Microsoft -> https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928
+📊 Data Analysis with Python -> https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7
 </div>
 
 <br>
