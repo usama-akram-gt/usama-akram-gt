@@ -6,9 +6,9 @@
 <h2 align="center">Hi 👋, I'm Usama</h1>
 🚀 Passionate Aspiring Data Engineer with expertise in building robust pipelines, transforming raw data into insights, optimizing data architectures, and collaborating across teams to bridge the gap between data sources and analytical tools. Exploring cutting-edge tech like Python, Git, Docker, Spark, Hadoop, and cloud-based warehousing. #HappyDataEngineering <br><br>
 
-<div style="background-color: #333; color: white; padding: 10px; border-radius: 5px; font-style: italic; font-size: 16px; text-align: center; margin: 20px 0;">
+<p style="background-color: #333; color: white; font-style: italic;">
   🎨 Travelling, photography (have plenty of gears), fashion, science, socialism, and content generating is my LUV :)
-</div>
+</p>
 </div>
 
 <br>
@@ -26,10 +26,10 @@
 <h2 align="center"> Certifications </h1>
 <a href="https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7">
   📊 Data Analysis with Python @freeCodeCamp
-</a>
+</a> <br>
  <a href="https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928">
    💻 Microsoft Azure for Data Engineering @Microsoft
- </a>
+ </a> <br>
  <a href="https://coursera.org/share/f6f991503195903a3b04d910ec3fc782">
    💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM
  </a>
