@@ -5,11 +5,11 @@
 <div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
 🚀 Passionate Aspiring Data Engineer with expertise in building robust pipelines, transforming raw data into insights, optimizing data architectures, and collaborating across teams to bridge the gap between data sources and analytical tools. Exploring cutting-edge tech like Python, Git, Docker, Spark, Hadoop, and cloud-based warehousing. #HappyDataEngineering <br><br>
+</div>
 
-<p style="background-color: #333; color: white; font-style: italic;">
+<p style="background-color: #333; color: white; font-style: italic; align: center;">
   🎨 Travelling, photography (have plenty of gears), fashion, science, socialism, and content generating is my LUV :)
 </p>
-</div>
 
 <br>
 <div align="center">
