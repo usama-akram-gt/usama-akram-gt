@@ -4,9 +4,9 @@
 <br>
 <div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
-🚀 Passionate Aspiring Data Engineer with expertise in building robust pipelines, transforming raw data into insights, optimizing data architectures, and collaborating across teams to bridge the gap between data sources and analytical tools. Exploring cutting-edge tech like Python, Git, Docker, Spark, Hadoop, and cloud-based warehousing. #HappyDataEngineering <br><br>
+🚀 Experienced Data Engineer with 5+ years of experience building scalable data pipelines, cloud architectures, and analytics platforms. Skilled in Azure, Databricks, Snowflake, and dbt for creating robust data ecosystems. Proven in driving data modernization, simplifying ETL, and delivering business-aligned solutions. Effective collaborator across technical and business teams, with domain exposure in oil & gas and genomics. Certified and continuously upskilling in cloud data engineering, governance, and real-time analytics. Comfortable working cross-functionally with product managers, data scientists, and engineers to align technical solutions with business objectives. #HappyDataEngineering <br><br>
 
-🎨 Travelling, photography (have plenty of gears), fashion, science, socialism, and content generating is my LUV :)
+🎨 Travelling, photography (have plenty of gears), fashion, science, socialism, and content creation is my LUV :)
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 
 <h2 align="center"> Experiences </h1>
 
- 📊 Data Engineer @CGG | 👨‍💻 Ex. ML Research Assistant @UniversityOfEssex | ✨ Ex. Software Engineer @SoftechSystems
+ 📊 Data Engineer @Viridien Group | 👨‍💻 Ex. ML Research Assistant @UniversityOfEssex | ✨ Ex. Software Engineer @SoftechSystems
 
 </div>
 
@@ -22,15 +22,24 @@
 <div align="center">
 
 <h2 align="center"> Certifications </h1>
-<a href="https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7">
-  📊 Data Analysis with Python @freeCodeCamp
-</a> <br>
+ <a href="https://coursera.org/share/f6f991503195903a3b04d910ec3fc782">
+   💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM
+ </a> <br>
  <a href="https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928">
    💻 Microsoft Azure for Data Engineering @Microsoft
  </a> <br>
- <a href="https://coursera.org/share/f6f991503195903a3b04d910ec3fc782">
-   💡 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM
- </a>
+ <a href="https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928">
+   💻 Azure Data Lake Storage Gen2 and Data Streaming Solution @Microsoft
+ </a> <br>
+ <a href="https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928">
+   💻 ETL and Data Pipelines with Shell, Airflow and Kafka @IBM
+ </a> <br>
+ <a href="https://coursera.org/share/b43260361c8759d32fa6bd3c4e676928">
+   💻 Microsoft Azure Databricks for Data Engineering @Microsoft
+ </a> <br>
+<a href="https://www.freecodecamp.org/certification/usama_akram/data-analysis-with-python-v7">
+  📊 Data Analysis with Python @freeCodeCamp
+</a>
 </div>
 
 <br>
