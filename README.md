@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <h2 align="center">Hi 👋, I'm Usama</h1>
-🚀 Experienced Data Engineer with 5+ years of experience building scalable data pipelines, cloud architectures, and analytics platforms. Skilled in Azure, Databricks, Snowflake, and dbt for creating robust data ecosystems. Proven in driving data modernization, simplifying ETL, and delivering business-aligned solutions. Effective collaborator across technical and business teams, with domain exposure in oil & gas and genomics. Certified and continuously upskilling in cloud data engineering, governance, and real-time analytics. Comfortable working cross-functionally with product managers, data scientists, and engineers to align technical solutions with business objectives. #HappyDataEngineering <br><br>
+🚀 Experienced Data Engineer with 3+ years of experience building scalable data pipelines, cloud architectures, and analytics platforms. Skilled in Azure, Databricks, Snowflake, and dbt for creating robust data ecosystems. Proven in driving data modernization, simplifying ETL, and delivering business-aligned solutions. Effective collaborator across technical and business teams, with domain exposure in oil & gas and genomics. Certified and continuously upskilling in cloud data engineering, governance, and real-time analytics. Comfortable working cross-functionally with product managers, data scientists, and engineers to align technical solutions with business objectives. #HappyDataEngineering <br><br>
 
 🎨 Travelling, photography (have plenty of gears), fashion, science, socialism, and content creation is my LUV :)
 </div>
